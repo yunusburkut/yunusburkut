@@ -1,6 +1,6 @@
 # 👋 Hello There, I'm Yunus Emre Burkut
 
-🎮 Computer Engineer | Mobile Game Engineer (Unity-focused)
+🎮 Computer Engineer | Mobile Game Engineer @ Zynga
 
 ## 🧠 About Me
 
