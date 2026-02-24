@@ -41,7 +41,9 @@ Outside of work, I build side projects to explore new mechanics, system design p
 
 * 🌐 LinkedIn: https://www.linkedin.com/in/yunusburkut/
 * 📧 Email: yunus.burkut@outlook.com
-
-## Badges 
+* 💻 Leetcode : https://leetcode.com/u/yburkut/
+* 👨🏻‍💻 HackerRank : https://www.hackerrank.com/profile/yunus_burkut1
+  
+## 🎖️ Badges 
 
 <img width="119" height="119" alt="image" src="https://github.com/user-attachments/assets/3ceb12bb-9819-4d6b-98dd-25fd9ad91089" />
